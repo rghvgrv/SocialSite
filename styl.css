@@ -54,7 +54,7 @@ img {
     padding: 10px;
     margin: auto;
     margin-top: 20px;
-    border-radius: 25px
+    border-radius: 25px;
 }
 .LinkedIn{
     background-color:#0077b5;
@@ -62,7 +62,7 @@ img {
     padding: 10px;
     margin: auto;
     margin-top: 20px;
-    border-radius: 25px
+    border-radius: 25px;
 }
 
 .GitHub{
@@ -90,7 +90,7 @@ img {
     padding: 10px;
     margin: auto;
     margin-top: 20px;
-    border-radius: 25px
+    border-radius: 25px;
 }
 
 a:hover{
