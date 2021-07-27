@@ -3,6 +3,13 @@ h1,h3,h5 {
   font-family: "Rubik", sans-serif;
   text-align: center;
 }
+
+body{
+  background-color: #FFDEE9;
+  background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+  
+}
+
 img {
   width:10%;
   display: block;
@@ -30,6 +37,17 @@ img {
   margin: auto;
   border-radius: 25px;
 }
+
+.HackerRank{
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+}
+
 .Behance{
     background-color: #003ecb ;
     width: 25%;
