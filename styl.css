@@ -46,6 +46,26 @@ img {
     margin-top: 20px;
     border-radius: 25px
 }
+
+.GitHub{
+  background-color: 	 #858585;
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 25px;
+}
+
+.CodeChef{
+  background-color: burlywood;
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 25px;
+
+}
+
 .Facebook{
     background-color: 	#4267B2;
     width: 25%;
