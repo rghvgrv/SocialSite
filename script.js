@@ -1,9 +1,9 @@
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Gaurav Ashish  😊 ";
+        document.title = "Social Handles | Gaurav Ashish  😊 ";
     }
     else {
-        document.title = "Come Back To Portfolio  🙏";
+        document.title = "Come Back To Social Handle 🙏";
     }
 });
