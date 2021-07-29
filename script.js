@@ -7,3 +7,4 @@ function(){
         document.title = "Come Back To Social Handle 🙏";
     }
 });
+
