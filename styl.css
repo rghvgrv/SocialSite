@@ -154,8 +154,11 @@ a{
     display:contents;
   }
   .Gmail,.Behance,.CodeChef,.Facebook,.GitHub,.Twitter,.LinkedIn,.HackerRank{
-    width: 25%;
+    width: 150px;
     padding :2px;
+    display:flexbox;
+    height:min-content;
+    
   }
   h1{
     font-size: 40px;
